@@ -1,0 +1,38 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Images\Daco_2716242.png" />
+    <None Remove="Images\key-icon.png" />
+    <None Remove="Images\Login.jpg" />
+    <None Remove="Images\Logo.jpg" />
+    <None Remove="Images\Logo.png" />
+    <None Remove="Images\Logo.svg" />
+    <None Remove="Images\P.png" />
+    <None Remove="Images\password.jpg" />
+    <None Remove="Images\profile.jpg" />
+    <None Remove="Images\search-icon.png" />
+    <None Remove="Images\user-icon.png" />
+    <None Remove="Images\username.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\Daco_2716242.png" />
+    <Resource Include="Images\key-icon.png" />
+    <Resource Include="Images\Login.jpg" />
+    <Resource Include="Images\profile.jpg" />
+    <Resource Include="Images\search-icon.png" />
+    <Resource Include="Images\user-icon.png" />
+  </ItemGroup>
+
+</Project>

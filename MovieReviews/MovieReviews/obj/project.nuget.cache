@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "K4K76VNPM6YAJ4hbMeHBfA7+gbmjnqJ2AnEUREZ/++1x4zwmuSpVBTW7GXC7ZFKGp1DL8+x48a9Wz9VcSgOF3w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\YamEl\\source\\repos\\MovieReviewsProject\\MovieReviews\\MovieReviews\\MovieReviews.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\YamEl\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
