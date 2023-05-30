@@ -37,7 +37,7 @@ Feel free to explore the repository for more information and source code.
 ### Star Window
 <img src="https://github.com/YamElgabsi/MoView-movie_database/raw/main/Pictures/StarWindow.jpg" alt="Star Window" width="500" height="400">
 
-[Screenshots](https://github.com/YamElgabsi/MooVie-movie_database/tree/main/Pictures)
+[To another screenshots](https://github.com/YamElgabsi/MooVie-movie_database/tree/main/Pictures)
 
 
 ## Additional Functionalities
