@@ -33,3 +33,18 @@ Expanding the Platforms - While the current implementation of the project is a d
 
 Feel free to explore the repository for more information and source code.
 
+## Screenshots
+
+### Login Window
+![Login Window](https://github.com/YamElgabsi/MoView-movie_database/raw/main/Pictures/LoginWindow.jpg)
+
+### Movie Window
+![Movie Window](https://github.com/YamElgabsi/MoView-movie_database/raw/main/Pictures/MovieWindow.jpg)
+
+### Register Window
+![Register Window](https://github.com/YamElgabsi/MoView-movie_database/raw/main/Pictures/RegisterWindow.jpg)
+
+### Star Window
+![Star Window](https://github.com/YamElgabsi/MoView-movie_database/raw/main/Pictures/StarWindow.jpg)
+
+
