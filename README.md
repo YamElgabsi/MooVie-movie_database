@@ -36,15 +36,15 @@ Feel free to explore the repository for more information and source code.
 ## Screenshots
 
 ### Login Window
-![Login Window](https://github.com/YamElgabsi/MoView-movie_database/raw/main/Pictures/LoginWindow.jpg)
+<img src="https://github.com/YamElgabsi/MoView-movie_database/raw/main/Pictures/LoginWindow.jpg" alt="Login Window" width="500" height="400">
 
 ### Movie Window
-![Movie Window](https://github.com/YamElgabsi/MoView-movie_database/raw/main/Pictures/MovieWindow.jpg)
+<img src="https://github.com/YamElgabsi/MoView-movie_database/raw/main/Pictures/MovieWindow.jpg" alt="Movie Window" width="500" height="400">
 
 ### Register Window
-![Register Window](https://github.com/YamElgabsi/MoView-movie_database/raw/main/Pictures/RegisterWindow.jpg)
+<img src="https://github.com/YamElgabsi/MoView-movie_database/raw/main/Pictures/RegisterWindow.jpg" alt="Register Window" width="500" height="400">
 
 ### Star Window
-![Star Window](https://github.com/YamElgabsi/MoView-movie_database/raw/main/Pictures/StarWindow.jpg)
+<img src="https://github.com/YamElgabsi/MoView-movie_database/raw/main/Pictures/StarWindow.jpg" alt="Star Window" width="500" height="400">
 
 
