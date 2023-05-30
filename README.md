@@ -1,6 +1,6 @@
-# MoView-movie_database
+# MooVie-movie_database
 
-MoView is a movie database system developed in C# using .NET 7.0 Web API and WPF. This system provides users with a visually appealing and user-friendly interface to access information about movies, actors, and production companies.
+MooVie is a movie database system developed in C# using .NET 7.0 Web API and WPF. This system provides users with a visually appealing and user-friendly interface to access information about movies, actors, and production companies.
 
 ## Key Features
 
@@ -10,7 +10,7 @@ MoView is a movie database system developed in C# using .NET 7.0 Web API and WPF
 
 ## Technologies and Packages Used
 
-MoView utilizes the following technologies, frameworks, and NuGet packages:
+MooVie utilizes the following technologies, frameworks, and NuGet packages:
 
 - C# .NET 7.0 Web API: Backend development framework for building the API endpoints.
 - WPF (Windows Presentation Foundation): Used to create the user interface for the desktop application.
@@ -36,6 +36,9 @@ Feel free to explore the repository for more information and source code.
 
 ### Star Window
 <img src="https://github.com/YamElgabsi/MoView-movie_database/raw/main/Pictures/StarWindow.jpg" alt="Star Window" width="500" height="400">
+
+[Screenshots](https://github.com/YamElgabsi/MooVie-movie_database/tree/main/Pictures)
+
 
 ## Additional Functionalities
 
